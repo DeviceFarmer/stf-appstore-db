@@ -10,6 +10,7 @@ blocks:
       jobs:
         - name: Test
           commands:
+            - install-package jq pngcrush graphicsmagick
             - checkout
             - sem-version node 12
             - cache restore
