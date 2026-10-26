@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is archived.** The app store icons now live in STF itself, in [`res/common/appstores/icon`](https://github.com/DeviceFarmer/stf/tree/master/res/common/appstores/icon), starting with [STF 3.9.0](https://github.com/DeviceFarmer/stf/releases/tag/v3.9.0). The `@devicefarmer/stf-appstore-db` package on npm is deprecated and won't get further updates.
+
 # stf-appstore-db
 
 **stf-appstore-db** provides the simple app store database used by [STF](https://github.com/openstf/stf). We have mainly focused on Android app stores for now. All data may not be complete yet.
